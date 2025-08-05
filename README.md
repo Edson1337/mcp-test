@@ -10,3 +10,7 @@ Este repositório apresenta o MCP Server, um servidor do Model Context Protocol 
 Este servidor é ideal para desenvolvedores que buscam integrar capacidades multimodais avançadas em seus agentes de IA.
 
 Para mais detalhes e para contribuir, acesse o projeto original: [MCP Servers](https://github.com/modelcontextprotocol/servers)
+
+---
+
+O código e as operações realizadas nesse repositório foram feitas por uma ferramenta que usa um agent, que utiliza tools, realizada pelo usuário Edson1337.
